@@ -1,0 +1,9 @@
+{
+  "name": "github-actions",
+  "version": "1.0.0",
+  "description": "testing github actions",
+  "main": "index.js",
+  "repository": "git@github.com:brodul/github-actions-test.git",
+  "author": "Andraz Brodnik <brodul@brodul.org>",
+  "license": "MIT"
+}
